@@ -3,7 +3,7 @@
   "license": "MIT",
   "description": "Client for example comments API",
   "require": {
-    "php": "8.0",
+    "php": "^8.0",
     "ext-json": "*",
     "psr/http-client": "^1.0",
     "psr/http-factory": "^1.0",
